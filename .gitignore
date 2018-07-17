@@ -12,3 +12,4 @@
 *.pom
 *.JSON
 *.project
+lib/
